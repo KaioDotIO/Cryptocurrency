@@ -1,4 +1,4 @@
-# Cryptocurrency App
+# :coin:Cryptocurrency App
 
 Cryptocurrency App is an application that lists a number of cryptocurrencies and displays their details. In the details, the description of this currency, authors, and others are displayed.
 
